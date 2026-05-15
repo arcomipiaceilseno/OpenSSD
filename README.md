@@ -1,6 +1,6 @@
 # OpenSSD
 
-**OpenSSD (Security System Device)** è un sistema di segnalazione ideato per permettere agli utenti di segnalare a distanza eventuali situazioni di pericolo all'interno di edifici pubblici. Il progetto nasce dall'analisi delle criticità nelle discoteche, proponendo una soluzione discreta e sicura per richiedere assistenza immediata.
+**SSD (Security System Device)** è un sistema di segnalazione ideato per permettere agli utenti di segnalare a distanza eventuali situazioni di pericolo all'interno di edifici pubblici. Il progetto nasce dall'analisi delle criticità nelle discoteche, proponendo una soluzione discreta e sicura per richiedere assistenza immediata.
 
 ## 📋 Descrizione del Progetto
 Il sistema consente di inviare segnalazioni riguardanti problematiche programmabili dal gestore (come molestie, droga, rissa o emergenze sanitarie) attraverso un tastierino fisico posizionato in luoghi appartati della struttura, garantendo la massima discrezione per chi effettua la richiesta.
